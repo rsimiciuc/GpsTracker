@@ -1,5 +1,8 @@
 # global .gitignore from github, https://help.github.com/articles/ignoring-files 
 
+phoneClients/android/.idea/
+phoneClients/android/build/
+
 # Compiled source #
 ###################
 *.com

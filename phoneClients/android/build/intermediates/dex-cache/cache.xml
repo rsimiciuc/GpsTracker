@@ -1,41 +1,201 @@
 <?xml version="1.0" encoding="utf-8"?>
-<pre-dex-items>
+<items version="2" >
 
     <item
-        dex="/Users/nickfox/Documents/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-2992ab2d49d77d0e7128006f2c19df0eb378e94d.jar"
-        jar="/Users/nickfox/Documents/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-3df5d6276acf954f4934238ee624197852fe857e.jar" />
+    </item>
     <item
-        dex="/Users/nickfox/Documents/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-1b22c473daca5f12bb12a5c9e0531cfb8f8288fc.jar"
-        jar="/Users/nickfox/Downloads/android-sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+        revision="23.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-7143da28fd5c59988c849d02eaaf59bae8e4206f.jar" />
+    </item>
     <item
-        dex="/Users/nickfox/Documents/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-ca3881bd02c084775cb2d45f06dffa0e20555b28.jar"
-        jar="/Users/nickfox/Documents/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+        revision="23.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-a697f474bca5743877aef0c827bd7de268b7a4a0.jar" />
+    </item>
     <item
-        dex="/Users/nickfox/Documents/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-89e4f8be48f84b12ba5f93bf4a2497888f47ffc5.jar"
-        jar="/Users/nickfox/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.6/a845a88238be0b5be9d238652c1bc0605ef91f52/android-async-http-1.4.6.jar"
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52"/>
+        revision="23.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-a9338204220c97e7312f15e15854f388aff3d105.jar" />
+    </item>
     <item
-        dex="/Users/nickfox/Documents/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-6e8361d1a0ef3742303aed44c40b34741251419e.jar"
-        jar="/Users/nickfox/Documents/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.3.23/classes.jar"
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="7676c0cb230efa6ac41c47867d372ed5913029d4"/>
+        revision="23.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-326caf9b9537f38c8ed2aec3e46a5e1980a04eba.jar" />
+    </item>
     <item
-        dex="/Users/nickfox/Documents/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-42cd9e4e0fa94e5658b4c8e6429d4c5bbf19fe14.jar"
-        jar="/Users/nickfox/Documents/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+        revision="23.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-0220d11d54afd74e438fb345559ab58b59fd995f.jar" />
+    </item>
+    <item
+        jar="/home/raul/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-8a5b4330d3d0329470756f25795896b0766f0606.jar" />
+    </item>
+    <item
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-f9abc508a3ee75b22ce701e06a063a9e0331c230.jar" />
+    </item>
+    <item
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-a7f4911cec0745b36a0f17e1fb6862285723727c.jar" />
+    </item>
+    <item
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-dc589aecff015cb7571f5e9f588cf7b79921b248.jar" />
+    </item>
+    <item
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-712968404d01438dcce32de60d6122463ca21b67.jar" />
+    </item>
+    <item
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-029b77ffb1d3da59828b8ec038a0a319d6b6db23.jar" />
+    </item>
+    <item
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-a14128bac3fdfa727a132de54f81b78daa15a2fd.jar" />
+    </item>
+    <item
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-9583aa34422f82e81c1155d5110bad77504fbc22.jar" />
+    </item>
+    <item
+        jar="/home/raul/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.8/77bbfe240e437ecb396d982afa0d3bd4f9090ba7/android-async-http-1.4.8.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.8-ab1b062fa8f19e811f350564d6d3a31705f87eed.jar" />
+    </item>
+    <item
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-539feb460f147012ae365b402e799a1a2e3a9bca.jar" />
+    </item>
+    <item
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-7ecf2c595992b9f4348cf2d83583f37c5b09e0b7.jar" />
+    </item>
+    <item
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-b06828f11a95ca9bda4cab98379e1b9d494b7cbc.jar" />
+    </item>
+    <item
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-df707fedd2a64837445c5afdcf4fa762a7a6ea5d.jar" />
+    </item>
+    <item
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-4d8f4aeaf0840e4ff25a5b7db68bc8305c6184e5.jar" />
+    </item>
+    <item
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-a705b0a73ef07d5cf33d7e4b7695b8c9e2b9d7e0.jar" />
+    </item>
+    <item
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-04327b684d261bafa3639390d9d8702c3907a0cf.jar" />
+    </item>
+    <item
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-76df55ec80a43abd883fd9317930d51f091189f8.jar" />
+    </item>
+    <item
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-36c66d164b8db7302f446a74dcc03a2b5b097e17.jar" />
+    </item>
+    <item
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-1f96ca0135f6d5f0ad65299a13c6b0a009dfea2c.jar" />
+    </item>
+    <item
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-09ca073bf4cbc4cd1c3602f9bc6c9154487b3405.jar" />
+    </item>
+    <item
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-10c1f7b5fd89389b077a1906f12c4e5915ca2442.jar" />
+    </item>
+    <item
+        jar="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/home/raul/mobile-workspace/GpsTracker/phoneClients/android/app/build/intermediates/pre-dexed/debug/classes-4b3b79a47bcaa7e6d23e477bcaa1673df4b5b763.jar" />
+    </item>
 
-</pre-dex-items>
+</items>
